@@ -1,12 +1,12 @@
 # Trybe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _ [Iana Fonteneles] (https://www.linkedin.com/in/iana-fonteneles-542834197/) _ enquanto estudava na [Trybe] (https://www.betrybe.com/): rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Iana Fonteneles] (https://www.linkedin.com/in/iana-fonteneles-542834197/)_ enquanto estudava na [Trybe] (https://www.betrybe.com/):rocket:
 
-_ "A Trybe é uma escola do futuro para quem quer melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando consegue um bom emprego." _
+_"A Trybe é uma escola do futuro para quem quer melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando consegue um bom emprego."_
 
 O programa tem mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias avançadas e habilidades comportamentais.
 
-## Fundamentos do Desenvolvimento Web: white_check_mark:
+## Fundamentos do Desenvolvimento Web :white_check_mark:
 
 ##### Bloco 1: Introdução - Unix e Shell
 
@@ -15,7 +15,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, aborda introdu
 
 ##### Bloco 2: Git e GitHub
 
-- [] 2-1: _O que é e para que serve? _
+- [] 2-1: _O que é e para que serve?_
 - [] 2-2: _Compreendendo os Comandos_
 - [] 2-3: _Internet - Entendendo como funciona_
 
@@ -41,7 +41,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, aborda introdu
 - [] 5-2: _JavaScript - Trabalhando com itens_
 - [] 5-3: _JavaScript - Eventos_
 - [] 5-4: _JavaScript - Armazenamento na Web_
-- [] 5-5: _ [Projeto - Gerador de Memes] () _
+- [] 5-5: _[Projeto - Gerador de Memes]()_
 - [] 5-6: _ [Projeto - Arte com Pixels] () _
 - [] 5-7: _ [Projeto - Lista de tarefas] () _
 - [] 5-7: _ [Projeto - Adivinhe a Cor] () _
